@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TestProgress</string>
+    <string name="title_activity_like_icon">LikeIconActivity</string>
+</resources>
